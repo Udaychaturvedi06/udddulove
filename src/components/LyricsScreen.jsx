@@ -149,9 +149,12 @@ export default function LyricsScreen() {
                         transition={{ delay: 1, duration: 1, ease: "easeInOut" }}
                         className="text-3xl md:text-4xl font-semibold px-4 text-center">
                         For My Haseen Girl❤️
+                        I feel awful . You mean more to me than anything, and I want to fix this. I appoligise and wanna turn things back to normal 
+                        yours only mendhak
                     </motion.h2>
                 </motion.div>
             )}
         </motion.div>
     )
 }
+
